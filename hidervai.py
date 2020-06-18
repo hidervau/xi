@@ -96,8 +96,8 @@ jalan("\033[1;92m |_| ")
 
 
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Hider"
+CorrectPassword = "xi"
 		print logo
 		keluar()
 	os.system("clear")
